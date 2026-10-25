@@ -35,19 +35,20 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🌤️ Weather Info Application</h3>
-      <p align="center">
-        A Python-based application using the Open-Meteo REST API in Google Colab to retrieve live metrics and reverse geocoding data.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/Potentialishere/weather-api-application"><strong>View Repository »</strong></a>
-      </p>
-    </td>
+   <td width="50%">
+  <h3 align="center">🌤️ Weather Info & Predictor App</h3>
+  <p align="center">
+    A Python application integrating Open-Meteo REST API data with Scikit-Learn to retrieve live weather metrics and forecast daily temperatures using Linear Regression.
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+    <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square" />
+  </p>
+  <p align="center">
+    <a href="https://github.com/Potentialishere/weather-api-application"><strong>View Repository »</strong></a>
+  </p>
+</td>
     <td width="50%">
       <h3 align="center">🎮 Mobile Game Project</h3>
       <p align="center">
