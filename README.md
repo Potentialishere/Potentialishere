@@ -1,13 +1,16 @@
 <div align="center">
 
-  <h1>Hi, I'm <a href="https://github.com/Potentialishere">Potentialishere</a> 👋</h1>
-  <p><strong>Software Engineering Undergraduate | Full-Stack & API Integration</strong></p>
+  <!-- Abstract Profile Avatar -->
+  <img src="YOUR_IMAGE_LINK_HERE" width="120" height="120" style="border-radius: 50%;" alt="Potentialishere Logo" />
 
-<!-- Credly & LinkedIn Buttons -->
+  <h1>Hi, I'm <a href="https://github.com/Potentialishere">Potentialishere</a> 👋</h1>
+  <p><strong>Software Engineering Undergraduate | Machine Learning, Cloud & API Development</strong></p>
+
+  <!-- Credly & External Links -->
   <a href="https://www.credly.com/users/syed-gelani.a6450057" target="_blank">
     <img src="https://img.shields.io/badge/Credly-Verified_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Profile" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
+  <a href="https://linkedin.com/in/YOUR-ACTUAL-HANDLE" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
   
@@ -17,14 +20,15 @@
 
 ---
 
-### 🛠️ Languages & Technical Stack
+### 🛠️ Technical Stack & Focus Areas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Cloud_Computing-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Cloud Computing" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
