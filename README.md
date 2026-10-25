@@ -1,7 +1,5 @@
 <div align="center">
 
-  <!-- Profile Image -->
-  <img src="./Gemini_Generated_Image_tpjsu6tpjsu6tpjs.jpg" width="130" alt="Potentialishere Logo" />
 
   <h1>Hi, I'm <a href="https://github.com/Potentialishere">Potentialishere</a> 👋</h1>
   <p><strong>Software Engineering Undergraduate | Machine Learning, Cloud & API Development</strong></p>
