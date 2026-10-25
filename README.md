@@ -3,13 +3,14 @@
   <h1>Hi, I'm <a href="https://github.com/Potentialishere">Potentialishere</a> 👋</h1>
   <p><strong>Software Engineering Undergraduate | Full-Stack & API Integration</strong></p>
 
-  <a href="[https://www.credly.com/users/syed-gelani](https://www.credly.com/users/syed-gelani.a6450057)">
-    <img src="https://img.shields.io/badge/Credly-Verified_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Badges" />
+<!-- Credly & LinkedIn Buttons -->
+  <a href="https://www.credly.com/users/syed-gelani.a6450057" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-Verified_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Profile" />
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
-
+  
 </div>
 
 <br />
