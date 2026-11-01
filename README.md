@@ -67,6 +67,14 @@
 
 ---
 
+## 📜 Certifications & Continuous Learning
+
+| Course / Certificate | Issuer | Platform | Verification |
+| :--- | :--- | :---: | :---: |
+| **Course Name Here** | University / Institution Name | FutureLearn | [Verify Certificate ↗](https://www.futurelearn.com/certificates/gw4naui) |
+| **Course Name Here** | University / Institution Name | FutureLearn | [Verify Certificate ↗](https://www.futurelearn.com/certificates/nov2kjb) |
+
+
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
