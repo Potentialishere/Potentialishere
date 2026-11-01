@@ -75,9 +75,7 @@
 | Machine Learning | University of SungKyunKwan | FutureLearn | [Verify Certificate ↗](https://www.futurelearn.com/certificates/nov2kjb) |
 
 
-<!-- 📊 GITHUB ACTIVITY & ANALYTICS -->
-<h2>📊 GitHub Activity & Analytics</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Potentialishere&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</p>
+## 🎯 Current Focus
+- 🔭 **Currently Building:** ML prediction pipelines and REST API microservices in Python.
+- 🎓 **Academic Goal:** Preparing for Master's studies in Computer Science / Machine Learning.
+- 📚 **Currently Learning:** Cloud Architecture (AWS/GCP) & Advanced Model Evaluation Techniques.
