@@ -75,15 +75,14 @@
 | Machine Learning | University of SungKyunKwan | FutureLearn | [Verify Certificate ↗](https://www.futurelearn.com/certificates/nov2kjb) |
 
 
-### 📊 GitHub Activity & Analytics
+<!-- 📊 GITHUB ACTIVITY & ANALYTICS -->
+<h2>📊 GitHub Activity & Analytics</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Potentialishere&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Potentialishere&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Potentialishere&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Potentialishere&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Potentialishere&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Potentialishere&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+</p>
